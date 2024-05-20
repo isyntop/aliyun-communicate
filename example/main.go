@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/KenmyZhang/aliyun-communicate"
+	"github.com/isyntop/aliyun-communicate"
 )
 
 var (
